@@ -1,0 +1,6 @@
+What is Data Science?
+50 years ago John Tukey called for reformation of academic statistics and introduced the word "Data Analysis". Few more years later John Chambers, Jeff Wu, Bill Cleveland, and Leo Breiman focused more on data preparation and presentation and named it Data Science. Many statisticians argued that data science is statistics even though statistics is just a small part in data science but later recognised that it is not a part of academic statistics but a new science. 
+Data Science is a science of data with combination of different fields like data mining, statistics, analytics and machine learning. It deals with really big data which involves collecting the data and performing different algorithms and developing unique optimal solution to a problem or to predict the future trends or creating meaning to a raw data. The activities in Data Science are classified into six divisions they are Data Gathering, Preparation, Exploration, Data Representation and Transformation, Computing with Data, Data Modelling, Data Visualization and Presentation and Science about Data Science. Learning the course isn’t enough to become a successful and good data scientist but by exploring the data, applying different statistical analysis to it and writing a code or creating a software when required makes one. 
+
+
+
