@@ -1,0 +1,3 @@
+Line graph shouldn't be used for the first plot since its not continuous data. Should've plotted a bar plot instead!
+
+hw: 90
